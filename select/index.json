@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "静かなあの子",
+  "base_artist": "神聖かまってちゃん",
+  "createdAt": "2025-12-23T22:00:23.676993Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Silent Girl (静かなあの子 - Shizukana Ano Ko)",
+      "artist": "Shinsei Kamattechan (神聖かまってちゃん)",
+      "has_synced": true,
+      "path": "select/01_Silent_Girl_(静かなあの子_-_Shizukana_Ano_Ko)_Shinsei_Kamattechan_(神聖かまってちゃん).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "静かなあの子",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_静かなあの子_神聖かまってちゃん.txt"
+    }
+  ]
+}
